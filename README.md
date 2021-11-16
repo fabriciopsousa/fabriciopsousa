@@ -1,8 +1,6 @@
 ### Welcome !!!
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on AWS and GCP cloud
 - 🌱 I’m currently learning about AWS Solutions Architect
 - 💬 Ask me about bbq and food
