@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about AWS Solutions Architect
 - 💬 Ask me about bbq and food
 
-## Hello, i`m Fabricio Sousa, SRE working with AWS and GCP Cloud Providers
+## Welcome Aboard, i`m Fabricio Sousa, SRE working with AWS and GCP Cloud Providers
 <div align="center">
   <a href="https://github.com/fabriciopsousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciopsousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
