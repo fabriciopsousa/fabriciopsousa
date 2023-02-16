@@ -1,9 +1,9 @@
-## Welcome Aboard, i`m Fabricio Sousa, SRE working with AWS and GCP Cloud Providers
+## Welcome Aboard, i`m Fabricio Sousa;
 
 
-- 🔭 I’m currently working on AWS and GCP cloud
-- 🌱 I’m currently learning about AWS SysOps and Terraform
-- 💬 Ask me about bbq and food
+- 🔭 I'm currently working with OCI
+- 🌱 I’m currently learning IaC, Pipelines and Observability
+- 💬 Ask me about bbq and food or tech
 
 
 
